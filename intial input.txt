@@ -1,0 +1,22 @@
+#include<stdio.h>
+
+
+int main(void)
+
+{
+
+//single line comment 
+
+printf ("Hello");
+
+/*
+multiple line comment
+*/
+
+printf("World");
+
+return 0;
+
+}
+        
+

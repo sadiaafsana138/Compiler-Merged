@@ -1,0 +1,20 @@
+1 2 float id x1 = 3.125 ; 
+3 
+5 double id f1 ( int id x ) 
+6 { 
+7 double id z ; 
+8 id z = 0.01 ; 
+9 return id z ; 
+10 } 
+11 void id f2 ( ) { 
+12 char id a ; 
+13 } 
+14 
+15 
+16 else ; 
+17 18 int id main ( void ) 
+19 { 
+20 int id n1 ; double id z ; 
+21 id n1 = 25 ; id z = id f1 ( id n1 ) ; 
+22 id f2 ( ) ; 
+
